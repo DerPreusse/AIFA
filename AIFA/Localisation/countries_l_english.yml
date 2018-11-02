@@ -1517,4 +1517,7 @@
  MNK_democratic_ADJ:0 "Minsk"
  MNK_neutrality_ADJ:0 "Minsk"
  MNK_communism_ADJ:0 "Minsk"
- 
+ PRS_democratic_ADJ:0 "Prussian Republic"
+ PRS_neutrality_ADJ:0 "Kingdom of Prussia"
+ PRS_communism_ADJ:0 "Prussian Commune"
+ MNK_fascism_ADJ:0 "Prussian State"
