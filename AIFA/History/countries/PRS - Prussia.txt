@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 4
 		}
 
 		fascism = {
-			popularity = 94
+			popularity = 30
 		}
 		
 		communism = {
@@ -24,28 +24,17 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 0
+			popularity = 60
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = neutrality
 	last_election = "1935.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 5
+set_convoys = 63
 
 
-}
-
-create_field_marshal = {
-	name = "Xhemal Aranitasi"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	traits = { }
-	skill = 2
-	attack_skill = 1
-    defense_skill = 3
-    planning_skill = 2
-    logistics_skill = 1
 }
