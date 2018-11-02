@@ -1487,12 +1487,14 @@
  TZR_fascism_DEF:0 "Russian States"
  TZR_fascism_ADJ:0 "Russian"
  TZR_neutrality_ADJ:0 "Russian"
+ ############
  CSR_democratic:0 "Central Russian Republic"
  CSR_democratic_DEF:0 "The Russian Republic"
  CSR_communism:0 "Communist States"
  CSR_communism_DEF:0 "The Communist States"
  CSR_communism_ADJ:0 "Russian"
  CSR_democratic_ADJ:0 "Russian"
+ #########
  MNK_fascism:0 "Peoples Empire"
  MNK_fascism_DEF:0 "The Peoples Empire"
  MNK_democratic:0 "Republic of Minsk"
@@ -1505,6 +1507,7 @@
  MNK_democratic_ADJ:0 "Minsk"
  MNK_neutrality_ADJ:0 "Minsk"
  MNK_communism_ADJ:0 "Minsk"
+ ###############
  PRS_fascism:0 "Prussian Empire"
  PRS_fascism_DEF:0 "The Prussian Empire"
  PRS_democratic:0 "Prussian Republic"
@@ -1517,6 +1520,7 @@
  PRS_democratic_ADJ:0 "Prusssian"
  PRS_neutrality_ADJ:0 "Prussian"
  PRS_communism_ADJ:0 "Prussian"
+ ##################
  GQU_fascism:0 "Greater Quebecois Empire"
  GQU_fascism_DEF:0 "the Greater Quebecois Empire"
  GQU_democratic:0 "New French Republic"
@@ -1529,3 +1533,18 @@
  GQU_democratic_ADJ:0 "New French"
  GQU_neutrality_ADJ:0 "Quebecois"
  GQU_communism_ADJ:0 "Quebecois"
+ ###############
+ WSU_fascism:0 "Western Russian Republic"
+ WSU_fascism_DEF:0 "The Western Russian Republic"
+ WSU_democratic:0 "Republic of Western Ukraine"
+ WSU_democratic_DEF:0 "The Republic of Western Ukraine"
+ WSU_neutrality:1 "Kingdom of Western Russia"
+ WSU_neutrality_DEF:1 "The Kingdom of Western Russia"
+ WSU_communism:0 "Western Commune"
+ WSU_communism_DEF:0 "The Western Commune"
+ WSU_fascism_ADJ:0 "Western Ukrainian"
+ WSU_democratic_ADJ:0 "Western Ukrainian"
+ WSU_neutrality_ADJ:0 "Western Ukrainian"
+ WSU_communism_ADJ:0 "Western Ukrainian"
+ ######################
+ 
