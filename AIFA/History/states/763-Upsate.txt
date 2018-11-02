@@ -1,0 +1,37 @@
+state={
+	id=763
+	name="STATE_763"
+
+	state_category = metropolis
+
+	history={
+		owner = BOS
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 6
+
+		}
+		add_core_of = BOS
+		victory_points = {
+			6855 5 
+		}
+		victory_points = {
+			6890 10 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6911 9774 706 11660 9673 9693 3806 11665 10381 11722 9721 1436 6717 9708 6916 9754 11662 3602 598 6778 6795 3747 3733 11680 9664 734 11654 6707 3702 11650 3894
+	}
+	manpower=6646694
+	buildings_max_level_factor=1.000
+}
