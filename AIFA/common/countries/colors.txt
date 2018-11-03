@@ -535,3 +535,66 @@ PRS = {
 	color = rgb { 0 49 83 }
 	color_ui = rgb { 0 20 82 }
 }
+BOS = {
+	color = rgb { 103 0 77 }
+	color_ui = rgb { 86 0 77 }
+}
+CIH = {
+	color = rgb { 102 53 0 }
+	color_ui = rgb { 51 26 0 }
+}
+CRM = {
+	color = rgb { 51 153 51 }
+	color_ui = rgb { 45 143 45 }
+}
+CSR = {
+	color = rgb { 204 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+DET = {
+	color = rgb { 77 0 153 }
+	color_ui = rgb { 51 0 102 }
+}
+ESU = {
+	color = rgb { 51 0 102 }
+	color_ui = rgb { 26 0 51 }
+}
+GQU = {
+	color = rgb { 0 0 153 }
+	color_ui = rgb { 0 0 128 }
+}
+MNK = {
+	color = rgb { 51 51 255 }
+	color_ui = rgb { 0 0 204 }
+}
+NYT = {
+	color = rgb { 51 51 255 }
+	color_ui = rgb { 0 0 204 }
+}
+ONT = {
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 204 204 0 }
+}
+PHD = {
+	color = { 0 204 0 }
+	color_ui = { 0 153 0 }
+}
+SLS = {
+	color = { 128 128 128 }
+	color_ui = { 89 89 89 }
+}
+TZR = {
+	color = { 0 102 0 }
+	color_ui = { 0 51 0 }
+}
+WSA = {
+	color = { 153 0 153 }
+	color_ui = { 102 0 102 }
+}
+WSU = {
+	color = { 128 128 128 }
+	color_ui = { 89 89 89 }
+}
+
+
+	
