@@ -45,6 +45,12 @@ set_politics = {
 
 set_convoys = 175
 
+create_country_leader = {
+	name = "Maurice Duplessis"
+	picture = "gfx/leaders/GQU/Maurice_Duplessis.dds"
+	ideology = rexism
+
+}
 
 }
 
@@ -59,10 +65,5 @@ create_field_marshal = {
     logistics_skill = 1
 }
 
-create_country_leader = {
-	name = "Maurice Duplessis"
-	picture = "gfx/leaders/GQU/Maurice_Duplessis.dds"
-	ideology = rexism
 
-}
 
