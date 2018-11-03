@@ -60,9 +60,9 @@ create_field_marshal = {
 }
 
 create_country_leader = {
-    name = "Maurice Duplessis"
-    picture = "gfx/leaders/GQU/Maurice_Duplessis.dds"
-    ideology = rexism
+	name = "Maurice Duplessis"
+	picture = "gfx/leaders/GQU/Maurice_Duplessis.dds"
+	ideology = rexism
 
 }
 
