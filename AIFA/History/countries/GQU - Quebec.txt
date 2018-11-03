@@ -60,13 +60,9 @@ create_field_marshal = {
 }
 
 create_country_leader = {
-	name = "Maurice Dueplessis"
-	picture = "gfx/leaders/GQU/Maurice_Dueplessis.dds"
-	expire = "1965.1.1"
-	ideology = rexism
-	traits = {
-		
-	}
-}
+    name = "Maurice Duplessis"
+    picture = "gfx/leaders/GQU/Maurice_Duplessis.dds"
+    ideology = rexism
 
+}
 
