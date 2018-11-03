@@ -61,9 +61,7 @@ set_convoys = 63
 
 create_country_leader = {
 	name = "Wilhelm II"
-	desc = "Place Holder"
 	picture = "gfx/leaders/PRS/Willy.dds"
-	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
 		anti_democrat
