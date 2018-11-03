@@ -1,9 +1,15 @@
-﻿capital = 468
+capital = 468
 
-#OOB = "ALB_1936"
+OOB = "GQU_1936"
+
+set_research_slots = 2
+
+set_stability = 0.5
+
+set_war_support = 0.5
 
 set_technology = {
-	infantry_weapons = 1
+	infantry_weapons = 2
 	tech_support = 1
 	tech_recon = 1
 }
@@ -37,7 +43,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 5
+set_convoys = 175
 
 
 }
@@ -52,4 +58,15 @@ create_field_marshal = {
     planning_skill = 2
     logistics_skill = 1
 }
+
+create_country_leader = {
+	name = "Maurice Dueplessis"
+	picture = "gfx/leaders/GQU/Maurice_Dueplessis.dds"
+	expire = "1965.1.1"
+	ideology = rexism
+	traits = {
+		
+	}
+}
+
 
